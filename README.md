@@ -56,6 +56,7 @@
 #### Inverter
 - Layout
 
+![inv_layout](https://user-images.githubusercontent.com/71965706/95672649-4e498700-0bc0-11eb-87de-db3a1b426fee.png)
 
 #### NAND Gate
 - Layout
