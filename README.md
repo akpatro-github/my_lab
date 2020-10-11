@@ -15,6 +15,9 @@
 ### Pre-Layout
 #### Inverter
 - Schematic 
+
+![inv_sch](https://user-images.githubusercontent.com/71965706/95672908-0592cd80-0bc2-11eb-851b-b96ad0c80ca8.png)
+
 - DC Operation
 
 ![inv_static](https://user-images.githubusercontent.com/71965706/95672397-0b86af80-0bbe-11eb-8625-36ef356f74cd.png)
