@@ -17,4 +17,10 @@
 - Schematic 
 - DC Operation
 
+![inv_static](https://user-images.githubusercontent.com/71965706/95672397-0b86af80-0bbe-11eb-8625-36ef356f74cd.png)
+
+  Above Diagram is Inverter Static characterstics.If we increase the strength of NMOS then the curve will shift to left while by increasing the strength of PMOS curve will shift to right.
+
+- Transiant Analysis
+
 
