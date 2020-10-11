@@ -36,7 +36,7 @@
 - Transiant Analysis
 
 ![nand_tran](https://user-images.githubusercontent.com/71965706/95672585-8e5c3a00-0bbf-11eb-98e2-0ec4141b3a68.png)
-![nand_layout](https://user-images.githubusercontent.com/71965706/95672532-2a397600-0bbf-11eb-9e33-1b521bf51843.png)
+
 
 #### NOR GAte
 - Schematic
@@ -48,4 +48,21 @@
 
 - Transiant Analysis
 
+![nor_tran](https://user-images.githubusercontent.com/71965706/95672602-bea3d880-0bbf-11eb-8b06-d23ad15c9bc1.png)
 
+
+### Post-Layout
+
+#### Inverter
+- Layout
+
+
+#### NAND Gate
+- Layout
+
+![nand_layout](https://user-images.githubusercontent.com/71965706/95672532-2a397600-0bbf-11eb-9e33-1b521bf51843.png)
+
+#### NOR Gate
+- Layout
+
+![nor_layout](https://user-images.githubusercontent.com/71965706/95672603-c3688c80-0bbf-11eb-9d62-4e7ec3a65bb9.png)
