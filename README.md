@@ -73,5 +73,4 @@
 #### NOR Gate
 - Layout
 
-
 ![nor_layout](https://user-images.githubusercontent.com/71965706/95680259-ef066980-0bf5-11eb-9fcf-a3ae4a84dc49.png)
