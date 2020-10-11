@@ -23,4 +23,9 @@
 
 - Transiant Analysis
 
+![inv_tran](https://user-images.githubusercontent.com/71965706/95672466-9e274e80-0bbe-11eb-905f-38e681c66a11.png)
+
+#### Nand Gate
+- Schematic
+- DC Operation
 
