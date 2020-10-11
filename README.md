@@ -29,3 +29,9 @@
 - Schematic
 - DC Operation
 
+![nand_a_static](https://user-images.githubusercontent.com/71965706/95672508-f6f6e700-0bbe-11eb-805f-9c7984d26031.png)
+
+![nand_b_static](https://user-images.githubusercontent.com/71965706/95672510-fa8a6e00-0bbe-11eb-80fc-b002c04d05ab.png)
+
+- Transiant Analysis
+
