@@ -41,5 +41,5 @@
 - Schematic
 - DC Operation
 
-
+![nor_a_static](https://user-images.githubusercontent.com/71965706/95672552-6076f580-0bbf-11eb-8390-e943f76fc29f.png)
 
