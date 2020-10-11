@@ -1,0 +1,13 @@
+* SPICE3 file created from /home/vlsi/Desktop/my_lab_logic/nor.ext - technology: scmos
+
+.option scale=0.2u
+
+M1000 out B a_7_0# VDD pfet w=12 l=2
++  ad=60 pd=34 as=72 ps=36
+M1001 a_7_0# A VDD VDD pfet w=12 l=2
++  ad=0 pd=0 as=60 ps=34
+M1002 GND B out GND nfet w=6 l=2
++  ad=60 pd=44 as=36 ps=24
+M1003 out A GND GND nfet w=6 l=2
++  ad=0 pd=0 as=0 ps=0
+C0 VDD GND 2.44fF

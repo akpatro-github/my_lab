@@ -1,0 +1,9 @@
+* SPICE3 file created from /home/vlsi/Desktop/my_lab_logic/inverter.ext - technology: scmos
+
+.option scale=0.2u
+
+M1000 out in VDD VDD pfet w=12 l=2
++  ad=60 pd=34 as=60 ps=34
+M1001 out in GND GND nfet w=6 l=2
++  ad=30 pd=22 as=30 ps=22
+C0 VDD GND 2.13fF
