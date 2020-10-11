@@ -62,14 +62,16 @@
 #### Inverter
 - Layout
 
-![inv_layout](https://user-images.githubusercontent.com/71965706/95672649-4e498700-0bc0-11eb-87de-db3a1b426fee.png)
+![inv_layout](https://user-images.githubusercontent.com/71965706/95680254-e877f200-0bf5-11eb-9768-95089b006b7a.png)
+
 
 #### NAND Gate
 - Layout
 
-![nand_layout](https://user-images.githubusercontent.com/71965706/95672532-2a397600-0bbf-11eb-9e33-1b521bf51843.png)
+![nand_layout](https://user-images.githubusercontent.com/71965706/95680262-f3cb1d80-0bf5-11eb-91b2-69a1768e51ab.png)
 
 #### NOR Gate
 - Layout
 
-![nor_layout](https://user-images.githubusercontent.com/71965706/95672603-c3688c80-0bbf-11eb-9d62-4e7ec3a65bb9.png)
+
+![nor_layout](https://user-images.githubusercontent.com/71965706/95680259-ef066980-0bf5-11eb-9fcf-a3ae4a84dc49.png)
