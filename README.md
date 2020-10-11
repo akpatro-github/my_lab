@@ -35,6 +35,7 @@
 
 - Transiant Analysis
 
+![nand_tran](https://user-images.githubusercontent.com/71965706/95672585-8e5c3a00-0bbf-11eb-98e2-0ec4141b3a68.png)
 ![nand_layout](https://user-images.githubusercontent.com/71965706/95672532-2a397600-0bbf-11eb-9e33-1b521bf51843.png)
 
 #### NOR GAte
@@ -42,4 +43,9 @@
 - DC Operation
 
 ![nor_a_static](https://user-images.githubusercontent.com/71965706/95672552-6076f580-0bbf-11eb-8390-e943f76fc29f.png)
+
+![nor_b_static](https://user-images.githubusercontent.com/71965706/95672586-92885780-0bbf-11eb-9326-628c2d0a91b4.png)
+
+- Transiant Analysis
+
 
