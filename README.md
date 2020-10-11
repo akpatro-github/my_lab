@@ -30,6 +30,9 @@
 
 #### NAND Gate
 - Schematic
+
+![nand_sch](https://user-images.githubusercontent.com/71965706/95673072-290a4800-0bc3-11eb-9cd5-c7396d42e216.png)
+
 - DC Operation
 
 ![nand_a_static](https://user-images.githubusercontent.com/71965706/95672508-f6f6e700-0bbe-11eb-805f-9c7984d26031.png)
