@@ -74,3 +74,7 @@
 - Layout
 
 ![nor_layout](https://user-images.githubusercontent.com/71965706/95876095-56f0b780-0d90-11eb-9207-5998863b07f5.png)
+
+## Install EDA Tools on your device
+### LXLE setup
+LXLE: A Linux Distribution Light on Resources But Heavy on Function. To setup the Linux environment [Click Here ()]
