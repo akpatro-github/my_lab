@@ -1,12 +1,12 @@
 # MY_LAB
 - [Introduction](https://github.com/akpatro-github/my_lab#Introduction)
-- [Logic Gates](https://github.com/akpatro-github/my_lab#Logic Gates)
+- [Logic Gates](https://github.com/akpatro-github/my_lab#Logic-Gates)
   - Pre-Layout
     - Inverter
     - NOR
     - NAND
   - Post-Layout
-- [Install EDA tools on your device](https://github.com/akpatro-github/my_lab#Install EDA Tools on your device)
+- [Install EDA tools on your device](https://github.com/akpatro-github/my_lab#Install-EDA-Tools-on-your-device)
 
 ## Introduction
   Welcome to my_lab!! Here you can learn how to simulate any netlist using NGSpice, Layot using Magic. And also know about the different operation of the logic gates...
