@@ -1,5 +1,5 @@
 # MY_LAB
-- Introduction
+- [Introduction](https://github.com/akpatro-github/my_lab## Introduction)
 - Logic Gates
   - Pre-Layout
     - Inverter
