@@ -78,4 +78,4 @@
 ## Install EDA Tools on your device
 ### LXLE setup
 - LXLE: A Linux Distribution Light on Resources But Heavy on Function. To setup the Linux environment [Click Here](https://github.com/akpatro-github/my_lab/tree/main/EDA%20setup%20manual)
-- To Install all EDA tools step by step refer to the Github [click Here}(https://github.com/silicon-vlsi/project2020)
+- To Install all EDA tools step by step refer to the Github [click Here](https://github.com/silicon-vlsi/project2020)
